@@ -42,3 +42,9 @@ body {
   background-color: rgb(99, 206, 255);
   transition: all 1s;
 }
+a {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: gray;
+}
